@@ -18,7 +18,7 @@ Page({
   //
   bindViewMap:function(){
 wx.navigateTo({
-  url: '../gps/gps',
+  url: '../list/simplelist',
 })
 
   },
